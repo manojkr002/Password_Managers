@@ -1,0 +1,4 @@
+intents:
+- get_password
+responses:
+  utter_password: [text: 'Here is your password.']
